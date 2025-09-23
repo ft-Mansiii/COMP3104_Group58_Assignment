@@ -1,2 +1,4 @@
 DevOps ensures a safe, traceable and manageable software development cycle.
 DevOps helps narrow down code changes and track problems.
+
+DevOps helps developers deliver and deploy updates automatically
