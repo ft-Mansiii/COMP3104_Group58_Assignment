@@ -2,3 +2,14 @@ The Software Development Life Cycle (SDLC) is a structured process used to desig
 test, and deploy software. DevOps plays an important role in modern SDLC by improving collaboration, 
 automation, and continuous delivery.
 
+Phases of SDLC include:
+1. Planning: define project goals, requirements, and resources.
+2. Analysis: study feasibility and gather detailed requirements.
+3. Design: create system architecture and design specifications.
+4. Implementation/Development: write the actual code and develop features.
+5. Testing: ensure the software is functional, reliable, and secure.
+6. Deployment: release the software to production.
+7. Maintenance: monitor, update, and improve the software over time.
+
+By integrating DevOps practices, organizations can automate testing, streamline deployments, 
+and achieve faster, more reliable releases within the SDLC framework.
