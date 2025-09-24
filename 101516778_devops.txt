@@ -1,0 +1,9 @@
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) 
+to shorten the software development lifecycle and provide continuous delivery of high-quality software. 
+
+Key principles of DevOps include:
+- Continuous Integration (CI): frequently merging code changes into a central repository.
+- Continuous Deployment (CD): automatically deploying code changes to production.
+- Collaboration: developers and operations teams work closely together.
+- Automation: using tools to automate testing, deployment, and monitoring.
+- Monitoring & Feedback: continuously measuring performance and user feedback to improve software.

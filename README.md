@@ -3,7 +3,7 @@
 ## Group Members
 - **Mansi(Leader):** Mansi . (101512083) - [GitHub](https://github.com/ft-Mansiii)
 - **Member 2:** Artem Basko (101486489) - [GitHub](https://github.com/cheatbreak)
-- **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 3:** Sakshat Garg (101516778) - [GitHub](https://github.com/SaKsHaTGaRg)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
