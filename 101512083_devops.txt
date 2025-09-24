@@ -1,0 +1,3 @@
+The devops class has the course code 3104.
+
+The devops class covers usage of CI/CD and VCS systems.
