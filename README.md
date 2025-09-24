@@ -1,7 +1,7 @@
 # COMP3104_Group58_Assignmen# COMP3104_Group1_Assignment
 
 ## Group Members
-- **Mansi:** Mansi . (101512083) - [GitHub](https://github.com/ft-Mansiii)
+- **Mansi(Leader):** Mansi . (101512083) - [GitHub](https://github.com/ft-Mansiii)
 - **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 
