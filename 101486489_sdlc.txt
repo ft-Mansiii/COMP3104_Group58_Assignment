@@ -1,3 +1,7 @@
 DevOps is a modern software development approach that combines development (Dev) and operations (Ops) to streamline collaboration, accelerate delivery, and improve software quality.
 
 DevOps combines development (Dev) and operations (Ops) to increase the efficiency, speed, and security of software development and delivery compared to traditional processes. A more nimble software development lifecycle results in a competitive advantage for businesses and their customers.
+
+The DevOps methodology aims to shorten the systems development lifecycle and provide continuous delivery with high software quality.
+
+It emphasizes collaboration, automation, integration and rapid feedback cycles. These characteristics help ensure a culture of building, testing, and releasing software that is more reliable and at a high velocity.
