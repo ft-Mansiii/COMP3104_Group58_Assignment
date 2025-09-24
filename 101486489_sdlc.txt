@@ -5,3 +5,7 @@ DevOps combines development (Dev) and operations (Ops) to increase the efficienc
 The DevOps methodology aims to shorten the systems development lifecycle and provide continuous delivery with high software quality.
 
 It emphasizes collaboration, automation, integration and rapid feedback cycles. These characteristics help ensure a culture of building, testing, and releasing software that is more reliable and at a high velocity.
+
+The benefits of DevOps and of a DevOps culture lies in the ability to improve the production environment in order to deliver software faster with continuous improvement.
+
+You need the ability to anticipate and respond to industry disruptors without delay. This becomes possible within an Agile software development process where teams are empowered to be autonomous and deliver faster, reducing work in progress. Once this occurs, teams are able to respond to demands at the speed of the market.
