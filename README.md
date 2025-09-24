@@ -1,8 +1,8 @@
-# COMP3104_Group58_Assignmen# COMP3104_Group1_Assignment
+# COMP3104_Group58_Assignment #
 
 ## Group Members
 - **Mansi(Leader):** Mansi . (101512083) - [GitHub](https://github.com/ft-Mansiii)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 2:** Artem Basko (101486489) - [GitHub](https://github.com/cheatbreak)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 
 ## Project Description
