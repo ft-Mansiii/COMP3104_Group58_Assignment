@@ -1,1 +1,2 @@
 Learning DevOps in the SDLC is important for automation and collaboration.
+Integrating DevOps in SDLC ensures fast delivery and high software quality.
