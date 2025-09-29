@@ -1,7 +1,7 @@
 # COMP3104_Group58_Assignment #
 
 ## Group Members
-- **Mansi(Leader):** Mansi . (101512083) - [GitHub](https://github.com/ft-Mansiii)
+- **(Leader):** Mansi . (101512083) - [GitHub](https://github.com/ft-Mansiii)
 - **Member 2:** Artem Basko (101486489) - [GitHub](https://github.com/cheatbreak)
 - **Member 3:** Sakshat Garg (101516778) - [GitHub](https://github.com/SaKsHaTGaRg)
 - **Member 4:** Ivan Barnash (101484997) - [GitHub](https://github.com/Ivan-here)
